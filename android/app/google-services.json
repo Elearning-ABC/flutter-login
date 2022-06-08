@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431992459358",
+    "project_id": "loginkoolsoft",
+    "storage_bucket": "loginkoolsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431992459358:android:29ff7493494cace449a4cf",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431992459358-uqlh77id2vu0h3an61i0im1cdojed9ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjugiVSuHd__GN7LPu1Z_U9uCjhBZD01U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431992459358-uqlh77id2vu0h3an61i0im1cdojed9ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
